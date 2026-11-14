@@ -123,9 +123,9 @@ python -m streamlit run app.py
 Create a `.env` file in the project folder:
 
 ```env
-AI_PROVIDER=groq
+AI_PROVIDER=groq or gemini
 GROQ_API_KEY=your_key_here
-GROQ_MODEL=openai/gpt-oss-120b
+GROQ_MODEL=working model
 ```
 
 Prefer Gemini? Use `AI_PROVIDER=gemini` and `GEMINI_API_KEY=your_key_here`.
@@ -213,6 +213,6 @@ Python · Pandas · NumPy · Plotly · Streamlit · VADER Sentiment · Groq / Go
 
 <div align="center">
 
-Built by **Pravin** · [LinkedIn](#) · [GitHub](#)
+Built by **Pravin** · [LinkedIn](https://www.linkedin.com/in/pravinkumar-u) · [GitHub](#)
 
 </div>
