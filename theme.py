@@ -107,7 +107,7 @@ def hero():
 
 
 def brand():
-    st.sidebar.markdown('<div class="brand"><div class="logo">⚡</div><div><b>DecisionAI</b><span>executive intelligence</span></div></div>',
+    st.sidebar.markdown('<div class="brand"><div class="logo">⚡</div><div><b>Dino-Doc</b><span>executive intelligence</span></div></div>',
                         unsafe_allow_html=True)
 
 
