@@ -85,7 +85,7 @@ A large volume effect points to demand or supply problems. A large price/mix eff
 ```
 decision-ai/
 ├── app.py              # dashboard: ties everything together
-├── ui.py               # CSS, animated hero, KPI cards, chart theme
+├── theme.py               # CSS, animated hero, KPI cards, chart theme
 ├── loader.py           # read any CSV/Excel, guess columns, clean data
 ├── analysis.py         # KPIs, comparison, drivers, anomalies, coverage
 ├── feedback.py         # sentiment and theme tagging
